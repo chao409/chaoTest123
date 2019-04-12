@@ -11,7 +11,7 @@ zheshi ceshi de summary qing sui bian kanzheshi ceshi de summary qing sui bian k
 
   spec.homepage     = "https://github.com/chao409/chaoTest123.git"
 
-  spec.license      = { :type => "MIT", :file => "LICENSE" }
+  spec.license      = "Copyright (c) 2019 chao409 . All rights reserved."
 
   spec.author       = { "曹超" => "chaochao.cao@yinyuetai.com" }
 
