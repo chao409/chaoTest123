@@ -3,15 +3,15 @@ Pod::Spec.new do |spec|
 
   spec.name         = "chaoTest"
   spec.version      = "1.0"
-  spec.summary      = "A short description of chaoTest."
+  spec.summary      = "zheshi ceshi de summary qing sui bian kan"
 
   spec.description  = <<-DESC
-123123123
+zheshi ceshi de summary qing sui bian kanzheshi ceshi de summary qing sui bian kanzheshi ceshi de summary qing sui bian kanzheshi ceshi de summary qing sui bian kan
                    DESC
 
   spec.homepage     = "https://github.com/chao409/chaoTest123.git"
 
-  spec.license      = "MIT"
+  spec.license      = { :type => "MIT", :file => "LICENSE" }
 
   spec.author       = { "曹超" => "chaochao.cao@yinyuetai.com" }
 
